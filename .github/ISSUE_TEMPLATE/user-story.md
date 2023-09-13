@@ -1,8 +1,8 @@
 ---
 name: User Story
 about: This template creates user stories
-title: ''
-labels: ''
+title: Enhancement
+labels: enhancement
 assignees: ''
 
 ---
