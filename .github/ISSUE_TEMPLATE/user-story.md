@@ -1,8 +1,8 @@
 ---
-name: User Story
-about: This template creates user stories
-title: Enhancement
-labels: enhancement
+name: User story
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
 assignees: ''
 
 ---
